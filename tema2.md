@@ -30,5 +30,14 @@ existen dos tipos de IP:
 - IPV4 - es la que se suele usar y tiene 4 grupos de caracteres
 - IPV6 - es el futuro
 una vez asignada la ip local se asigna una mascara de subread
+puede ser fija o dinamica
+#### optimizacion de sistemas para ordenadores portatiles
+- mayor vulnerabilidad ya que salen de los hogares o la oficina
+- menor rendimiento y otras caracteristicas : esto suele pasar con los antigos los modernos o ultima generacion
+no tienen tanto este tipo de problema
+seguridad adicional:
+   - encriptar el disco duro con un bitlocker y cuidado con la contraseña pq si no te acuerdas lo pierdes todo
+   - contraseña muy segura
+   - contraseñas adicionales
 
 
