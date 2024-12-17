@@ -50,7 +50,7 @@ el bluetoh es PAN
 
 ip config/all en la tabla de comandos  para darte todos los datos sobre la ip del ordenador
 #### arquitectura del sistema operativo
-- necleo de sistema se encarga de trabajar con la cpu y la ram 
+- nucleo de sistema se encarga de trabajar con la cpu y la ram 
 - API conjunto de servicios que ofrece el os a las aplicaciones
 - sistema de archivos carpetas para almacenar cosas
 - controladores de dirvers tanto manual como automatico sirve para que todas las partes del pc funcionen correctamente y actualmemte se instalan solos en las ultimas versiones.
