@@ -27,3 +27,4 @@ lo mejor para usar en caso de tener varios correos es el programa outlook donde 
           - transitivas
 - delegacion de control entre dominios: permite a los usuarios de un dominio administrar recursos de otro dominio. 
 es recomendable que haya varias personas que puedan acceder al sistema en caso de ser una empresa con un numero considerable de personas
+## ADMINISTRACIONES DE CUENTAS. CUENTAS PREDETERMINADAS
