@@ -17,3 +17,13 @@ y las org para organizaciones sin animos de lucro
 - directorio: repositorio que guarda informacion
 - dominio: conjunto de objetos dentro del directorio dentro de un "bosque"puede haber varios dominios 
 lo mejor para usar en caso de tener varios correos es el programa outlook donde puedes meter todas tus cuentas cada cuenta de correo crea un archivo y el programa te lo gestiona (pst o ost)
+- controlador de dominio:conjunto de objetos  del directorio 
+- arboles : universidad de granada,jaen, es decir,red local
+- bosque: por ejemplo la red de universidad de españa, red nacional
+- unidades de organizacion: contenedor de objetos para organizar jerarquicamente dentro del dominio
+- relaciones de confianza: metodo de comunicacion de los dominios
+          - unidireccional
+          - bidireccional
+          - transitivas
+- delegacion de control entre dominios: permite a los usuarios de un dominio administrar recursos de otro dominio. 
+es recomendable que haya varias personas que puedan acceder al sistema en caso de ser una empresa con un numero considerable de personas
